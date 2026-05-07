@@ -23,3 +23,4 @@ public class ShippingCalculatorTest {
       () -> calc.calculate(-1, "STANDARD"));
   }
 }
+

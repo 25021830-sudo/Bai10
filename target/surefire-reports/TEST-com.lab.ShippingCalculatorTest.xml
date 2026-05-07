@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="D:\JVAVAJ\bin"/>
-    <property name="sun.java.command" value="C:\Users\me\AppData\Local\Temp\surefire15621826976104328769\surefirebooter-20260507232236887_3.jar C:\Users\me\AppData\Local\Temp\surefire15621826976104328769 2026-05-07T23-22-35_133-jvmRun1 surefire-20260507232236887_1tmp surefire_0-20260507232236887_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\me\AppData\Local\Temp\surefire12758682900222695529\surefirebooter-20260507235655274_3.jar C:\Users\me\AppData\Local\Temp\surefire12758682900222695529 2026-05-07T23-56-55_110-jvmRun1 surefire-20260507235655274_1tmp surefire_0-20260507235655274_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\JAVA_PROJECT\Week1\Week9\Bai10\target\test-classes;D:\JAVA_PROJECT\Week1\Week9\Bai10\target\classes;C:\Users\me\.m2\repository\ch\qos\logback\logback-classic\1.4.11\logback-classic-1.4.11.jar;C:\Users\me\.m2\repository\ch\qos\logback\logback-core\1.4.11\logback-core-1.4.11.jar;C:\Users\me\.m2\repository\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar;C:\Users\me\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.2\junit-jupiter-5.9.2.jar;C:\Users\me\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\me\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\me\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;C:\Users\me\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\me\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.2\junit-jupiter-params-5.9.2.jar;C:\Users\me\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.2\junit-jupiter-engine-5.9.2.jar;C:\Users\me\.m2\repository\org\junit\platform\junit-platform-engine\1.9.2\junit-platform-engine-1.9.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\me\AppData\Local\Temp\surefire15621826976104328769\surefirebooter-20260507232236887_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\me\AppData\Local\Temp\surefire12758682900222695529\surefirebooter-20260507235655274_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="25.0.2+10-LTS-69"/>
@@ -60,6 +60,6 @@
     <property name="java.class.version" value="69.0"/>
   </properties>
   <testcase name="testExpress" classname="com.lab.ShippingCalculatorTest" time="0.03"/>
-  <testcase name="testInvalidWeight" classname="com.lab.ShippingCalculatorTest" time="0.003"/>
+  <testcase name="testInvalidWeight" classname="com.lab.ShippingCalculatorTest" time="0.004"/>
   <testcase name="testStandard" classname="com.lab.ShippingCalculatorTest" time="0.001"/>
 </testsuite>
